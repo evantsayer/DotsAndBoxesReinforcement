@@ -1,0 +1,4 @@
+model_name,run_id,episodes_total,opponent_schedule,curriculum_switch_ep,lr,gamma,open_box_penalty,combo_multiplier,players,final_winrate,best_mean100,final_score_diff,csv_path
+Alternating,20250831-124634,10000,alternate,1000,0.001,0.99,5.0,1.5,2,0.35,72.07502656936646,-8.042,csv/Alternating__20250831-124634.csv
+Curriculum,20250831-131750,10000,curriculum,9000,0.001,0.99,5.0,1.5,2,0.0,-75.74375,-22.044,csv/Curriculum__20250831-131750.csv
+Random,20250831-121414,10000,random,1000,0.001,0.99,5.0,1.5,2,0.824,-132.44539039611817,8.514,csv/Random__20250831-121414.csv
